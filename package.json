@@ -1,0 +1,62 @@
+{
+  "_from": "eslint-config-szh-react",
+  "_id": "eslint-config-szh-react@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-6/jK9zNg8Cqs9uIaydu2YpfoyCHqiY8fEXc07IC2XQZPOiFv6WioKBQmnM1q+P+e22U45hNinBFl1kmob6kmkQ==",
+  "_location": "/eslint-config-szh-react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "eslint-config-szh-react",
+    "name": "eslint-config-szh-react",
+    "escapedName": "eslint-config-szh-react",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-config-szh-react/-/eslint-config-szh-react-0.0.3.tgz",
+  "_shasum": "298935025d89629e97950883e0a639b1e70178ea",
+  "_spec": "eslint-config-szh-react",
+  "_where": "/home/surov/projects/eslint",
+  "author": {
+    "name": "s zh"
+  },
+  "bugs": {
+    "url": "https://github.com/surovv/eslint-config-szh-react/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-standard-react": "^6.0.0",
+    "eslint-config-szh": "0.0.3",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.8.2"
+  },
+  "deprecated": false,
+  "description": "eslint configuration for react applications",
+  "homepage": "https://github.com/surovv/eslint-config-szh-react#readme",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "eslint-config-szh-react",
+  "peerDependencies": {
+    "eslint": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surovv/eslint-config-szh-react.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
